@@ -1,0 +1,60 @@
+body{
+background-image: url(https://image.freepik.com/fotos-gratis/fundo-de-papel-texturizado-liso-preto_53876-98333.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+
+}
+.Logo{
+    color: white;
+list-style: none;
+font-weight: 60px;
+float: right;
+
+}
+
+h1{
+font-size: 44px;
+text-align: center;
+color: rgb(228 , 228, 228);
+
+
+
+}
+
+
+
+.margem{
+width: 500px;
+height: 500px;
+margin: auto;
+background-image: url(./images/Imagem\ De\ Fundo\ Do\ Menu\ Preto\ Mão\ Desenhada.jpg);
+background-repeat: no-repeat;
+padding:40px;
+
+list-style: none;
+color: white;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
