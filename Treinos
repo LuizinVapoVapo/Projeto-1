@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <title>Curriculo</title>
+ <meta charset="UTF-8">
+</head>
+
+<body>
+    <div id="Cabeçalho">
+       <h1>
+       Igor Oliveira
+      </h1>
+     <ul style="list-style:none">
+         <li><strong>Cidade:</strong>Rio De Janeiro</li>
+         <li><strong>Telefone:</strong> (44) 54451654561</li>
+         <li><strong>Email:</strong> <a href="mailto:luisnxjc@gmail.com "> luisnxjc@gmail.com</a></li>
+     </ul>
+    </div>
+    <hr> <br>
+
+    <div id="objetivo">
+            <h2>
+                Objetivo
+            </h2>
+            <p>
+                Chegar a 1.0000
+            </p>
+    </div>
+    <div id="formação">
+            <h2>
+                Formação
+            </h2>
+            <p>
+            <strong>Graduação em engenharia</strong><br>
+             Faculdade do Rio De Janeiro
+            </p>
+    </div>
+    <h2>
+        Experiencia
+    </h2>
+    <img src="foto.webp" width="50px">
+    <p>
+        <strong>Produtor de Conteudo</strong> 
+        <a href="https://programadorbr.club.hotmart.com/">programadorbr</a>
+    </p>
+    <h2>
+        Habilidades
+    </h2>
+    <ul>
+        <li>
+            Java
+        </li>
+        <li>
+            Phyton
+        </li>
+        <li>
+            Trabalhar
+        </li>
+    </ul>
+</body>
+
+</html>
